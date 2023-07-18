@@ -10,4 +10,4 @@
 
 - **prompt** chiedi il suo colore preferito
 
-- document.getElementById().innerHTML = let del primo + del secondo + del terzo  prompt
+- document.getElementById().innerHTML = let del primo + del secondo + del terzo  prompt + '21' 
