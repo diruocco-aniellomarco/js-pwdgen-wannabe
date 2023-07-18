@@ -4,10 +4,10 @@
 
 # Esecuzione
 
-- **prompt** Chiedi all'utente il suo nome
+- Chiedo all'utente il suo nome e lo registo in una costante
     
-- **prompt** chiedi il suo cognome
+- chiedo il suo cognome e lo registo in una costante
 
-- **prompt** chiedi il suo colore preferito
+- chiedo il suo colore preferito e lo registo in una costante
 
-- document.getElementById().innerHTML = let del primo + del secondo + del terzo  prompt + '21' 
+- richamandomi l'id dell'h1 che si trova sul file html, per far si che esca a schermo in quella posizione, metto insieme le stringhe di testo tramite le rispettive costanti e ci aggiungo anche "21" alla fine.
